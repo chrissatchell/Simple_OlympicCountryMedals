@@ -3,7 +3,7 @@ Install [Node.js](https://nodejs.org/).
 Open your command-line (CLI) and type: *npm install*
 
 #Run
-In the command-line type: *npm start*
+In the command-line type: *npm start*  
 Then: *npm run server*
 
 #View
