@@ -1,0 +1,67 @@
+/**
+ * H5BP
+ */
+
+.visually-hidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+
+  &.focusable:active,
+  &.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+  }
+}
+
+/**
+ * Simple styles
+ */
+main {
+  margin: 25px auto;
+  max-width: 335px;
+}
+
+#signin-form {
+  input:focus {
+    box-shadow: none;
+  }
+  button[disabled] {
+    //visibility: hidden;
+  }
+}
+
+// Valid field
+.yup {
+  border-color:limegreen !important;
+}
+
+// Already selected this country...nice try!
+.list-group-item-success {
+  cursor: default;
+}
+
+// Medals
+.heavy-metals {
+  list-style:none !important;
+  padding-left: 0;
+}
+
+#list-group-item a.list-group-item {
+  overflow: hidden;
+}
+
+// HACK - Crude
+#favourite-countries {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}

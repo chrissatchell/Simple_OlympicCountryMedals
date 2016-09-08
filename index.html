@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Olympic List</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div class="page">
+
+			<main>
+				<section id="view-signin" class="fluid-container">
+					<form id="signin-form" action="" class="panel">
+						<div class="form-group">
+							<input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" class="form-control" id="" placeholder="Login" aria-label="Login">
+						</div>
+						<div class="form-group">
+							<input type="password" class="form-control" id="" placeholder="Password" aria-label="Password">
+						</div>
+						<div class="form-group">
+							<button disabled type="submit" class="btn btn-primary animated bounceIn" aria-label="Submit">Sign in</button>
+						</div>
+					</form>
+				</section>
+
+				<section id="view-stats" class="fluid-container hidden">
+					<ul class="list-group">
+						<li class="list-group-item hidden">
+							<span id="country-count" class="badge"></span>
+							Participating Countries
+						</li>
+						<li id="favourite-countries" class="list-group-item" role="button">
+							<span id="favourite-count" class="badge">0</span>
+							Favourite Countries
+						</li>
+					</ul>
+
+					<div id="countries-list" class="list-group"></div>
+				</section>
+
+				<section id="view-favourite-countries-with-medals" class="fluid-container visually-hidden">
+					<button class="btn btn-link back-btn" aria-label="Back to Countries with medals lists" rel="prev">
+						<span class="glyphicon glyphicon-align-right glyphicon-chevron-left" aria-hidden="true"></span>
+						Back
+					</button>
+
+					<br><br>
+					<ul class="list-group"></ul>
+				</section>
+			</main>
+
+		</div>
+
+		<script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+		<script src="https://cdn.jsdelivr.net/lodash/4/lodash.min.js"></script>
+		<script src="bundle.js"></script>
+	</body>
+</html>

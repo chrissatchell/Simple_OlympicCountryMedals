@@ -1,0 +1,23 @@
+{
+  "name": "simpleolympiccourtymedals",
+  "version": "1.0.0",
+  "description": "Winter Olympics dashboard with the 2014 Sochi participant country data",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "server": "grunt connect",
+    "start": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Satchell",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}

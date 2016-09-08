@@ -1,0 +1,1919 @@
+[
+  {
+    "abbr": "ALB",
+    "description": "Albania made its Olympic Winter Games debut in Turin in 2006. Alpine skier Erjon Tola was the sole representative, competing in super G, giant slalom and slalom. Tola returned four years later in Vancouver, again as Albania's only athlete.",
+    "first_appearance": 2006,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/al.png",
+    "id": "albania",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Albania",
+    "num_appearances": 3
+  },
+  {
+    "abbr": "AND",
+    "description": "Members of Andorran ski clubs took part in the Olympic Winter Games of 1952, 1956, 1960 and 1964. They competed for different countries as Andorra was not recognised as an Olympic nation until Innsbruck, in 1976.",
+    "first_appearance": 1976,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ad.png",
+    "id": "andorra",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Andorra",
+    "num_appearances": 11
+  },
+  {
+    "abbr": "ARG",
+    "description": "Argentinian athletes have mostly competed in alpine skiing and bobsleigh events, and at the nation's first Olympic Winter Games in 1928, its two four-man bobsleigh teams finished fourth and fifth.",
+    "first_appearance": 1928,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ar.png",
+    "id": "argentina",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Argentina",
+    "num_appearances": 18
+  },
+  {
+    "abbr": "ARM",
+    "description": "Kenneth Topalian and Joseph Almasian had the honour of becoming the first athletes to represent Armenia at the Olympic Games - summer or winter - when they took part in the two-man bobsleigh event in Lillehammer in 1994.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/am.png",
+    "id": "armenia",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Armenia",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "AUS",
+    "description": "Australia first competed in the Olympic Winter Games in Garmisch-Partenkirchen in 1936 and has sent a team to every edition since 1952.",
+    "first_appearance": 1936,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/au.png",
+    "id": "australia",
+    "medals": {
+      "bronze": 1,
+      "gold": 0,
+      "silver": 2,
+      "total": 3
+    },
+    "medals_by_sport": {
+      "freestyle_skiing": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      },
+      "snowboard": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      }
+    },
+    "name": "Australia",
+    "num_appearances": 18
+  },
+  {
+    "abbr": "AUT",
+    "description": "Austrian athletes have an outstanding record in winter Olympic competition, particularly in alpine skiing where they have won more medals than any other nation.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/at.png",
+    "id": "austria",
+    "medals": {
+      "bronze": 1,
+      "gold": 2,
+      "silver": 6,
+      "total": 9
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "1",
+        "gold": "2",
+        "silver": "2",
+        "total": "5"
+      },
+      "biathlon": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      },
+      "luge": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      },
+      "ski_jumping": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "2",
+        "total": "2"
+      }
+    },
+    "name": "Austria",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "AZE",
+    "description": "Azerbaijan's winter Olympic history began when the country sent a small team, including figure skaters and alpine skiers, to the 1998 Nagano Games.",
+    "first_appearance": 1998,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/az.png",
+    "id": "azerbaijan",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Azerbaijan",
+    "num_appearances": 5
+  },
+  {
+    "abbr": "BLR",
+    "description": "Aerials skier Alexei Grishin reached his fourth consecutive Olympic final in Vancouver in 2010. After finishing fourth in 2006 and third in 2002, he claimed Belarus' first gold medal at the Olympic Winter Games with victory in Vancouver.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/by.png",
+    "id": "belarus",
+    "medals": {
+      "bronze": 1,
+      "gold": 5,
+      "silver": 0,
+      "total": 6
+    },
+    "medals_by_sport": {
+      "biathlon": {
+        "bronze": "1",
+        "gold": "3",
+        "silver": "0",
+        "total": "4"
+      },
+      "freestyle_skiing": {
+        "bronze": "0",
+        "gold": "2",
+        "silver": "0",
+        "total": "2"
+      }
+    },
+    "name": "Belarus",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "BEL",
+    "description": "Belgium started competing at the Olympic Winter Games in Chamonix in 1924, and has sent a team to every edition of the Games except for 1960 and 1968. Belgium's first winter Olympic medal was a bronze in the four-man bobsleigh in 1924. Belgium's only winter Olympic gold medal was won by Pierre Baugniet and Micheline Lannoy in the pairs figure skating at the 1948 St Moritz Games. At the same Games, the four-man bobsleigh team secured silver.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/be.png",
+    "id": "belgium",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "medals_historical_by_sport": {
+      "bobsleigh": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1,
+        "total": 2
+      },
+      "figure_skating": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0,
+        "total": 2
+      },
+      "speed_skating": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0,
+        "total": 1
+      }
+    },
+    "name": "Belgium",
+    "num_appearances": 20
+  },
+  {
+    "abbr": "BMU",
+    "description": "Luge athlete Simon Payne became the first athlete from Bermuda to compete at the Olympic Winter Games when he took part in Albertville in 1992.",
+    "first_appearance": 1992,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/bm.png",
+    "id": "bermuda",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Bermuda",
+    "num_appearances": 7
+  },
+  {
+    "abbr": "BIH",
+    "description": "Bosnia and Herzegovina first competed as an independent nation at the 1994 Olympic Winter Games in Lillehammer.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ba.png",
+    "id": "bosnia_and_herzegovina",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Bosnia And Herzegovina",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "BRA",
+    "description": "Alpine skier Evelyn Schuler was Brazil's first representative at an Olympic Winter Games when she competed in the giant slalom at the 1992 Albertville Games. Since then, Brazil has sent competitors to every winter Games.",
+    "first_appearance": 1992,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/br.png",
+    "id": "brazil",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Brazil",
+    "num_appearances": 7
+  },
+  {
+    "abbr": "BGR",
+    "description": "Biathlete Yekaterina Dafovska claimed Bulgaria's first and only gold medal at the Olympic Winter Games with victory in the women's 15km individual in Nagano in 1998.",
+    "first_appearance": 1936,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/bg.png",
+    "id": "bulgaria",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Bulgaria",
+    "num_appearances": 19
+  },
+  {
+    "abbr": "CAN",
+    "description": "Canada has hosted the Olympic Winter Games on two occasions, with vastly different fortunes each time. In Calgary in 1988, Canada failed to win a gold medal, a repeat of their performance as hosts of the summer Games in Montreal in 1976. In Vancouver four years ago, Canada's fortunes finally changed, finishing on top of the medal table with 14 gold medals.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ca.png",
+    "id": "canada",
+    "medals": {
+      "bronze": 4,
+      "gold": 4,
+      "silver": 8,
+      "total": 16
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "figure_skating": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "3",
+        "total": "3"
+      },
+      "freestyle_skiing": {
+        "bronze": "1",
+        "gold": "3",
+        "silver": "2",
+        "total": "6"
+      },
+      "short_track": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "1",
+        "total": "2"
+      },
+      "snowboard": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      },
+      "speed_skating": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      }
+    },
+    "name": "Canada",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "CYM",
+    "description": "Cayman Islands made its Olympic Winter Games debut in Vancouver in 2010. Alpine skier Dow Travers competed in the men's giant slalom event.",
+    "first_appearance": 2010,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ky.png",
+    "id": "cayman_islands",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Cayman Islands",
+    "num_appearances": 2
+  },
+  {
+    "abbr": "CHL",
+    "description": "Chile is home to some of the highest accessible skiing areas in the world and unsurprisingly fields athletes primarily in ski events, especially alpine skiing.",
+    "first_appearance": 1948,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/cl.png",
+    "id": "chile",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Chile",
+    "num_appearances": 16
+  },
+  {
+    "abbr": "CHN",
+    "description": "The majority of China's success at the Olympic Winter Games has been in short track speed skating, with seven of its nine gold medals coming from the sport.",
+    "first_appearance": 1980,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/cn.png",
+    "id": "china",
+    "medals": {
+      "bronze": 1,
+      "gold": 3,
+      "silver": 2,
+      "total": 6
+    },
+    "medals_by_sport": {
+      "freestyle_skiing": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      },
+      "short_track": {
+        "bronze": "0",
+        "gold": "2",
+        "silver": "1",
+        "total": "3"
+      },
+      "speed_skating": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "0",
+        "total": "1"
+      }
+    },
+    "name": "China",
+    "num_appearances": 10
+  },
+  {
+    "abbr": "TWN",
+    "description": "Chinese Taipei made its debut at the Olympic Winter Games in 1976 and has appeared at every edition of the Games since 1984.",
+    "first_appearance": 1972,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/tw.png",
+    "id": "chinese_taipei",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Chinese Taipei",
+    "num_appearances": 11
+  },
+  {
+    "abbr": "HRV",
+    "description": "Croatian alpine skier Janica Kostelic dominated the 2002 Olympic Winter Games in Salt Lake City by winning three gold medals [combined, slalom and giant slalom] and a silver [super G]. She became the first alpine skier to win four medals at a single winter Olympic competition and also equalled the Olympic record of Austria's Anton Sailer [1956] and Frenchman Jean-Claude Killy [1968], who both won three alpine skiing gold medals at a single Olympic Winter Games.",
+    "first_appearance": 1992,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/hr.png",
+    "id": "croatia",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1,
+      "total": 1
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      }
+    },
+    "name": "Croatia",
+    "num_appearances": 7
+  },
+  {
+    "abbr": "CYP",
+    "description": "Cyprus has sent athletes to every edition of the Olympic Winter Games since making its debut in Lake Placid in 1980. Lina Aristodimou was the youngest competitor in alpine skiing in 1980, at age 14 years and 327 days. She also competed four years later in Sarajevo.",
+    "first_appearance": 1980,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/cy.png",
+    "id": "cyprus",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Cyprus",
+    "num_appearances": 10
+  },
+  {
+    "abbr": "CZE",
+    "description": "Cross-country skier Katerina Neumannova secured the Czech Republic's first ever Olympic winter medal at Nagano in 1998 by winning silver in the women's 5km classic and bronze in the 15km pursuit.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/cz.png",
+    "id": "czech_republic",
+    "medals": {
+      "bronze": 2,
+      "gold": 1,
+      "silver": 3,
+      "total": 6
+    },
+    "medals_by_sport": {
+      "biathlon": {
+        "bronze": "2",
+        "gold": "0",
+        "silver": "2",
+        "total": "4"
+      },
+      "snowboard": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "0",
+        "total": "1"
+      },
+      "speed_skating": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      }
+    },
+    "name": "Czech Republic",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "DNK",
+    "description": "Denmark's only winter Olympic medal is the silver won by the women's curling team at the 1998 Olympic Winter Games in Nagano. It was the first time that women's curling had been part of official Olympic medal competition.",
+    "first_appearance": 1948,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/dk.png",
+    "id": "denmark",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Denmark",
+    "num_appearances": 13
+  },
+  {
+    "abbr": "DMA",
+    "description": "Dominica is making its Olympic Winter Games debut in Sochi.",
+    "first_appearance": 2014,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/dm.png",
+    "id": "dominica",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Dominica",
+    "num_appearances": 1
+  },
+  {
+    "abbr": "EST",
+    "description": "As cross-country skiing is one of Estonia's most popular winter sports, it is no surprise that all the nation's winter medals have been won by cross-country skiers.",
+    "first_appearance": 1928,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ee.png",
+    "id": "estonia",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Estonia",
+    "num_appearances": 9
+  },
+  {
+    "abbr": "FIN",
+    "description": "Nordic combined athlete Samppa Lajunen was age 18 when he won silver medals in the individual and team events at the 1998 Nagano Olympic Winter Games, but much better was to follow four years later.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/fi.png",
+    "id": "finland",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 3,
+      "total": 3
+    },
+    "medals_by_sport": {
+      "cross-country": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "2",
+        "total": "2"
+      },
+      "snowboard": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      }
+    },
+    "name": "Finland",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "FRA",
+    "description": "France has been represented at every Olympic Winter Games and hosted the event on three occasions, including the first Games in Chamonix in 1924.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/fr.png",
+    "id": "france",
+    "medals": {
+      "bronze": 5,
+      "gold": 3,
+      "silver": 2,
+      "total": 10
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      },
+      "biathlon": {
+        "bronze": "1",
+        "gold": "2",
+        "silver": "1",
+        "total": "4"
+      },
+      "cross-country": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "ski_jumping": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "snowboard": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "0",
+        "total": "2"
+      }
+    },
+    "name": "France",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "GEO",
+    "description": "Georgia first participated at the Olympic Winter Games in 1994 and has competed at every edition since Lillehammer.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ge.png",
+    "id": "georgia",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Georgia",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "DEU",
+    "description": "Georg Hackl won three consecutive gold medals in the men's single luge at the 1992, 1994 and 1998 Olympic Winter Games. Hackl was also the first luge competitor to have won medals in five consecutive winter Olympic competitions, having finished with silver at the 2002 Salt Lake Games and also a silver at the 1988 Calgary Games when competing for West Germany.",
+    "first_appearance": 1928,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/de.png",
+    "id": "germany",
+    "medals": {
+      "bronze": 4,
+      "gold": 8,
+      "silver": 3,
+      "total": 15
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "1",
+        "total": "3"
+      },
+      "biathlon": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      },
+      "cross-country": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "figure_skating": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "luge": {
+        "bronze": "0",
+        "gold": "4",
+        "silver": "1",
+        "total": "5"
+      },
+      "nordic_combined": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "0",
+        "total": "2"
+      },
+      "ski_jumping": {
+        "bronze": "0",
+        "gold": "2",
+        "silver": "0",
+        "total": "2"
+      }
+    },
+    "name": "Germany",
+    "num_appearances": 11
+  },
+  {
+    "abbr": "GBR",
+    "description": "Britain's first Olympic Winter Games gold medal came in curling at the 1924 Games in Chamonix. Curling would again prove a source of success in Salt Lake City in 2002, when Rhona Martin skipped the women's team to gold.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/gbr.png",
+    "id": "great_britain",
+    "medals": {
+      "bronze": 1,
+      "gold": 1,
+      "silver": 0,
+      "total": 2
+    },
+    "medals_by_sport": {
+      "skeleton": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "0",
+        "total": "1"
+      },
+      "snowboard": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      }
+    },
+    "name": "Great Britain",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "GRC",
+    "description": "Cross-country skier Panagiota Tsakiri became the youngest Greek athlete to compete at an Olympic Winter Games in Turin in 2006. She took part in the women's sprint event at age 15. She switched to biathlon in Vancouver in 2010, where she competed alongside her father Athanassios, who was appearing in his fifth Olympic Winter Games. The pair made history as the first father and daughter to compete at the same edition of the Olympic Winter Games.",
+    "first_appearance": 1936,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/gb.png",
+    "id": "greece",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Greece",
+    "num_appearances": 18
+  },
+  {
+    "abbr": "HKG",
+    "description": "Hong Kong first sent athletes to the Olympic Winter Games in 2002. Short track speed skater Christy Ren had the honour of becoming the first Hong Kong athlete to compete at the Games when she took part in the women's 1500m event.",
+    "first_appearance": 2002,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/hk.png",
+    "id": "hong_kong",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Hong Kong",
+    "num_appearances": 4
+  },
+  {
+    "abbr": "HUN",
+    "description": "All six of Hungary's medals at the Olympic Winter Games have been won in figure skating. In 1932 Emilia Rotter and Laszlo Szollas won their nation's first medal, bronze in the pairs event. Four years later in Garmisch-Partenkirchen, they repeated their bronze medal-winning performance.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/hu.png",
+    "id": "hungary",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Hungary",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "ISL",
+    "description": "Alpine skier Kristinn Bjornsson made four appearances at the Olympic Winter Games [1992-2002], the most by an Icelandic athlete.",
+    "first_appearance": 1948,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/is.png",
+    "id": "iceland",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Iceland",
+    "num_appearances": 17
+  },
+  {
+    "abbr": "IRI",
+    "description": "Iran sent a team of three alpine skiers to its first Olympic Winter Games, in Cortina d'Ampezzo in 1956.",
+    "first_appearance": 1956,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ir.png",
+    "id": "ir_iran",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Iran, Islamic Republic of",
+    "num_appearances": 10
+  },
+  {
+    "abbr": "IRL",
+    "description": "At the 2002 Olympic Winter Games in Salt Lake City, Clifton Wrottesley missed winning Ireland's first winter Olympic medal by 0.32 seconds when he finished fourth in the skeleton.Also in Salt Lake City, alpine skier Tamsen McGarry became the first Irish female athlete to participate at the Olympic Winter Games.",
+    "first_appearance": 1992,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ie.png",
+    "id": "ireland",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Ireland",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "ISR",
+    "description": "Israel's first winter Olympian was figure skater Michael Shmerkin. He finished 16th in the men's singles in Lillehammer in 1994. Four years later in Nagano, he placed 18th.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/il.png",
+    "id": "israel",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Israel",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "ITA",
+    "description": "Italy's Alberto Tomba won gold in both the slalom and giant slalom on his Olympic debut in Calgary in 1988, and clinched the giant slalom again four years later in Albertville, where he became the first alpine skier to win the same Olympic event twice. He also won slalom silver medals in 1992 and 1994 to become the first alpine skier to take home medals from three different Olympic Winter Games and the first male alpine skier to win five Olympic medals.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/it.png",
+    "id": "italy",
+    "medals": {
+      "bronze": 4,
+      "gold": 0,
+      "silver": 2,
+      "total": 6
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      },
+      "luge": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "short_track": {
+        "bronze": "2",
+        "gold": "0",
+        "silver": "1",
+        "total": "3"
+      }
+    },
+    "name": "Italy",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "JAM",
+    "description": "Jamaica made its debut at the Olympic Winter Games in 1988 in Calgary when a team made up of track sprinters was entered in the men's four-man bobsleigh competition.",
+    "first_appearance": 1988,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/jm.png",
+    "id": "jamaica",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Jamaica",
+    "num_appearances": 8
+  },
+  {
+    "abbr": "JPN",
+    "description": "Japan's first medal at the Olympic Winter Games was won by alpine skier Chiharu Igaya, who claimed silver in the men's slalom at the 1956 Cortina d'Ampezzo Games.",
+    "first_appearance": 1928,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/jp.png",
+    "id": "japan",
+    "medals": {
+      "bronze": 2,
+      "gold": 1,
+      "silver": 4,
+      "total": 7
+    },
+    "medals_by_sport": {
+      "figure_skating": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "0",
+        "total": "1"
+      },
+      "nordic_combined": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      },
+      "ski_jumping": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      },
+      "snowboard": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "2",
+        "total": "3"
+      }
+    },
+    "name": "Japan",
+    "num_appearances": 20
+  },
+  {
+    "abbr": "KAZ",
+    "description": "Since first competing as an independent nation at the 1994 Lillehammer Olympic Winter Games, Kazakhstan has won a total of six medals, with four of them belong to one man.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/kz.png",
+    "id": "kazakhstan",
+    "medals": {
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0,
+      "total": 1
+    },
+    "medals_by_sport": {
+      "figure_skating": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      }
+    },
+    "name": "Kazakhstan",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "KOR",
+    "description": "Athletes from Korea have won 45 medals at the Olympic Winter Games and 37 of them [including 19 gold] have been won in short track speed skating.",
+    "first_appearance": 1948,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/kr.png",
+    "id": "korea",
+    "medals": {
+      "bronze": 1,
+      "gold": 2,
+      "silver": 1,
+      "total": 4
+    },
+    "medals_by_sport": {
+      "short_track": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "1",
+        "total": "3"
+      },
+      "speed_skating": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "0",
+        "total": "1"
+      }
+    },
+    "name": "Korea, Republic of",
+    "num_appearances": 17
+  },
+  {
+    "abbr": "KGZ",
+    "description": "Biathlete Alexandr Tropnikov is the only athlete to represent Kyrgyzstan at two editions of the Olympic Winter Games. He took part in the 10km sprint and 20km individual events in both 1998 and 2002.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/kg.png",
+    "id": "kyrgyzstan",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Kyrgyzstan",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "LVA",
+    "description": "Latvia first competed at the Olympic Winter Games in 1924, and returned to competition as an independent nation in 1992.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/lv.png",
+    "id": "latvia",
+    "medals": {
+      "bronze": 2,
+      "gold": 0,
+      "silver": 1,
+      "total": 3
+    },
+    "medals_by_sport": {
+      "luge": {
+        "bronze": "2",
+        "gold": "0",
+        "silver": "0",
+        "total": "2"
+      },
+      "skeleton": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      }
+    },
+    "name": "Latvia",
+    "num_appearances": 10
+  },
+  {
+    "abbr": "LBN",
+    "description": "Lebanon has participated in all but two editions of the Olympic Winter Games since 1948.",
+    "first_appearance": 1948,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/lb.png",
+    "id": "lebanon",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Lebanon",
+    "num_appearances": 16
+  },
+  {
+    "abbr": "LIE",
+    "description": "Liechtenstein are the only nation to have won a winter Olympic medal without having won a medal of any colour at a summer Games.",
+    "first_appearance": 1936,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/li.png",
+    "id": "liechtenstein",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Liechtenstein",
+    "num_appearances": 18
+  },
+  {
+    "abbr": "LTU",
+    "description": "Lithuania's first representative at the Olympic Winter Games was speed skater Kestutis Bulota, who took part in four events in St Moritz in 1928. Ice dancing husband and wife couple Margarita Drobiazko and Povilas Vanagas represented Lithuania at five consecutive Olympic Winter Games between 1992 and 2006, with a best placing of fifth in 2002.",
+    "first_appearance": 1928,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/lt.png",
+    "id": "lithuania",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Lithuania",
+    "num_appearances": 8
+  },
+  {
+    "abbr": "LUX",
+    "description": "Luxembourg first took part in the Olympic Winter Games in 1928 and since 1988 has participated in every edition of Olympic Winter Games.",
+    "first_appearance": 1928,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/lu.png",
+    "id": "luxembourg",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Luxembourg",
+    "num_appearances": 8
+  },
+  {
+    "abbr": "MLT",
+    "description": "Malta is making its first appearance at the Olympic Winter Games in Sochi.",
+    "first_appearance": 2014,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/mt.png",
+    "id": "malta",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Malta",
+    "num_appearances": 1
+  },
+  {
+    "abbr": "MEX",
+    "description": "Alpine skier Hubertus Von Hohenlohe competed at four consecutive Olympic Winter Games between 1984 and 1994. After a 16-year break, he returned to the Games in Vancouver in 2010. He will be making his sixth appearance in Sochi, drawing him level with Liechtenstein's Marco Buchel for most appearances by an alpine skier at the Olympic Winter Games.",
+    "first_appearance": 1928,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/mx.png",
+    "id": "mexico",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Mexico",
+    "num_appearances": 8
+  },
+  {
+    "abbr": "MCO",
+    "description": "Prince Albert II [competing as Albert Grimaldi] participated in bobsleigh at five editions of the Olympic Winter Games [1988, 1992, 1994, 1998 and 2002], the most by an athlete representing Monaco.",
+    "first_appearance": 1984,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/mc.png",
+    "id": "monaco",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Monaco",
+    "num_appearances": 9
+  },
+  {
+    "abbr": "MNG",
+    "description": "Mongolia has sent athletes to every edition of the Olympic Winter Games since 1964, except for the 1976 Games in Innsbruck.",
+    "first_appearance": 1964,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/mn.png",
+    "id": "mongolia",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Mongolia",
+    "num_appearances": 13
+  },
+  {
+    "abbr": "MNE",
+    "description": "Alpine skier Bojan Kosic became the first athlete to represent Montenegro at the Olympic Winter Games when he took part in the men's giant slalom in Vancouver in 2010. He was Montenegro's sole representative in Vancouver.",
+    "first_appearance": 2010,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/me.png",
+    "id": "montenegro",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Montenegro",
+    "num_appearances": 2
+  },
+  {
+    "abbr": "MAR",
+    "description": "Alpine skier Samir Azzimani was Morocco's sole representative in Vancouver in 2010, four years after injury ruled him out of competing at the 2006 Olympic Winter Games in Turin.He was Morocco's first participant at the Olympic Winter Games since 1992.",
+    "first_appearance": 1968,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ma.png",
+    "id": "morocco",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Morocco",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "NPL",
+    "description": "Jayaram Khadka was Nepal's first representative at the Olympic Winter Games, competing in cross-country skiing in Salt Lake City in 2002.",
+    "first_appearance": 2002,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/np.png",
+    "id": "nepal",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Nepal",
+    "num_appearances": 4
+  },
+  {
+    "abbr": "NLD",
+    "description": "After sending just two speed skaters and five bobsleigh athletes to its first Olympic Winter Games, the Netherlands had to wait until 1952 to win its first medals - three speed skating silvers. Twelve years later at Innsbruck, figure skater Sjoukje Dijkstra won the first Dutch gold medal, having taken home silver at the 1960 Squaw Valley Games.",
+    "first_appearance": 1928,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/nl.png",
+    "id": "netherlands",
+    "medals": {
+      "bronze": 8,
+      "gold": 6,
+      "silver": 6,
+      "total": 20
+    },
+    "medals_by_sport": {
+      "short_track": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "speed_skating": {
+        "bronze": "7",
+        "gold": "6",
+        "silver": "6",
+        "total": "19"
+      }
+    },
+    "name": "Netherlands",
+    "num_appearances": 20
+  },
+  {
+    "abbr": "NZL",
+    "description": "Alpine skier Annelise Coberger won New Zealand's first winter Olympic medal, and the first for the southern hemisphere, at the 1992 Albertville Games when she finished second in the women's slalom.",
+    "first_appearance": 1952,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/nz.png",
+    "id": "new_zealand",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "New Zealand",
+    "num_appearances": 15
+  },
+  {
+    "abbr": "NOR",
+    "description": "Norway is the most successful nation in winter Olympic history, both in terms of total medals won and gold medals won.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/no.png",
+    "id": "norway",
+    "medals": {
+      "bronze": 7,
+      "gold": 8,
+      "silver": 4,
+      "total": 19
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "0",
+        "total": "2"
+      },
+      "biathlon": {
+        "bronze": "1",
+        "gold": "2",
+        "silver": "1",
+        "total": "4"
+      },
+      "cross-country": {
+        "bronze": "3",
+        "gold": "4",
+        "silver": "1",
+        "total": "8"
+      },
+      "nordic_combined": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "1",
+        "total": "3"
+      },
+      "ski_jumping": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "snowboard": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      }
+    },
+    "name": "Norway",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "PAK",
+    "description": "Pakistan made its winter Olympic debut at the 2010 Games in Vancouver. Skier Muhammad Abbas was their sole competitor at the Games, where he finished 79th in the giant slalom.",
+    "first_appearance": 2010,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/pk.png",
+    "id": "pakistan",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Pakistan",
+    "num_appearances": 2
+  },
+  {
+    "abbr": "PRY",
+    "description": "Paraguay is making its Olympic Winter Games debut in Sochi",
+    "first_appearance": 2014,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/py.png",
+    "id": "paraguay",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Paraguay",
+    "num_appearances": 1
+  },
+  {
+    "abbr": "PER",
+    "description": "Peru made its first appearance at the Olympic Winter Games in Vancouver in 2010. Cross-country skier Roberto Carcelen competed in the 15km freestyle event, finishing 94th.",
+    "first_appearance": 2010,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/pe.png",
+    "id": "peru",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Peru",
+    "num_appearances": 2
+  },
+  {
+    "abbr": "PHL",
+    "description": "The Philippines participated in the Olympic Winter Games for the first time in Sapporo in 1972, with two athletes competing in alpine skiing.",
+    "first_appearance": 1972,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ph.png",
+    "id": "philippines",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Philippines",
+    "num_appearances": 4
+  },
+  {
+    "abbr": "POL",
+    "description": "Poland is one of 12 nations to have competed at every edition of the Olympic Winter Games.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/pl.png",
+    "id": "poland",
+    "medals": {
+      "bronze": 0,
+      "gold": 4,
+      "silver": 0,
+      "total": 4
+    },
+    "medals_by_sport": {
+      "cross-country": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "0",
+        "total": "1"
+      },
+      "ski_jumping": {
+        "bronze": "0",
+        "gold": "2",
+        "silver": "0",
+        "total": "2"
+      },
+      "speed_skating": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "0",
+        "total": "1"
+      }
+    },
+    "name": "Poland",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "PRT",
+    "description": "In 1952 alpine skier Duarte Espirito Santo became the first Portuguese athlete to compete at the Olympic Winter Games",
+    "first_appearance": 1952,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/pt.png",
+    "id": "portugal",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Portugal",
+    "num_appearances": 7
+  },
+  {
+    "abbr": "MDA",
+    "description": "The Republic of Moldova first took part in the Olympic Winter Games as an independent nation in Lillehammer in 1994. Elena Gorohova appeared at four editions of the Olympic Winter Games [1994-2006], competing in biathlon and cross-country skiing.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/me.png",
+    "id": "rep_of_moldova",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Moldova, Republic of",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "ROU",
+    "description": "Romania's sole medal success at the Olympic Winter Games remains the bronze medal won by Ion Panturu and Nicolae Neagoe in the men's two-man bobsleigh event in Grenoble in 1968. Four years later in Sapporo, Panturu teamed with Ion Zangor for a fifth-place finish.",
+    "first_appearance": 1928,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ro.png",
+    "id": "romania",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Romania",
+    "num_appearances": 20
+  },
+  {
+    "abbr": "RUS",
+    "description": "Russia made its first appearance at the Olympic Winter Games after the disolution of the Soviet Union in Lillehammer in 1994, topping the medal tally with 23 medals - 11 gold, eight silver and four bronze.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ru.png",
+    "id": "russian_fed",
+    "medals": {
+      "bronze": 7,
+      "gold": 6,
+      "silver": 8,
+      "total": 21
+    },
+    "medals_by_sport": {
+      "biathlon": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      },
+      "bobsleigh": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "0",
+        "total": "1"
+      },
+      "cross-country": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      },
+      "figure_skating": {
+        "bronze": "1",
+        "gold": "2",
+        "silver": "1",
+        "total": "4"
+      },
+      "freestyle_skiing": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "luge": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "2",
+        "total": "2"
+      },
+      "short_track": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "1",
+        "total": "3"
+      },
+      "skeleton": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "0",
+        "total": "2"
+      },
+      "snowboard": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "1",
+        "total": "3"
+      },
+      "speed_skating": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      }
+    },
+    "name": "Russian Fed.",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "SMR",
+    "description": "Cross-country skier Andrea Sammaritani competed at the Olympic Winter Games in 1984, 1988 and 1992. He shares the record for the most appearances by a San Marino athlete at the Olympic Winter Games with alpine skier Nicola Ercolani, who competed in 1988, 1992 and 1994.",
+    "first_appearance": 1976,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/sm.png",
+    "id": "san_marino",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "San Marino",
+    "num_appearances": 9
+  },
+  {
+    "abbr": "SRB",
+    "description": "Serbia sent a team of 10 athletes across four sports for its Olympic Winter Games debut in Vancouver in 2010. Alpine skier Jelena Lolovic made her third Olympic appearance in Vancouver, having previously represented Serbia and Montenegro in 2002 and 2006.",
+    "first_appearance": 2010,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/rs.png",
+    "id": "serbia",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Serbia",
+    "num_appearances": 2
+  },
+  {
+    "abbr": "SVK",
+    "description": "Slovakia made its debut at the 1994 Olympic Winter Games in Lillehammer. In Norway, the Slovakian men's ice hockey team topped its group with some terrific performances, including a 3-1 win over Canada and a 4-4 tie against Sweden. However, Russia ended Slovakia's charge with a 3-2 win in a quarterfinal match which went into overtime.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/sk.png",
+    "id": "slovakia",
+    "medals": {
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0,
+      "total": 1
+    },
+    "medals_by_sport": {
+      "biathlon": {
+        "bronze": "0",
+        "gold": "1",
+        "silver": "0",
+        "total": "1"
+      }
+    },
+    "name": "Slovakia",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "SVN",
+    "description": "Slovenia will be aiming to win their first winter Olympic gold at the 2014 Games in Sochi, having come so close in Vancouver four years ago.",
+    "first_appearance": 1992,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/si.png",
+    "id": "slovenia",
+    "medals": {
+      "bronze": 4,
+      "gold": 2,
+      "silver": 1,
+      "total": 7
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "0",
+        "gold": "2",
+        "silver": "0",
+        "total": "2"
+      },
+      "biathlon": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "cross-country": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "ski_jumping": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      },
+      "snowboard": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      }
+    },
+    "name": "Slovenia",
+    "num_appearances": 7
+  },
+  {
+    "abbr": "ESP",
+    "description": "Spain has only won two medals in winter Olympic competition. Both belong to siblings and were won 20 years apart.",
+    "first_appearance": 1936,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/es.png",
+    "id": "spain",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Spain",
+    "num_appearances": 19
+  },
+  {
+    "abbr": "SWE",
+    "description": "Sweden has competed at every Olympic Winter Games, always featuring strongly in the overall medal tally.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/se.png",
+    "id": "sweden",
+    "medals": {
+      "bronze": 2,
+      "gold": 2,
+      "silver": 5,
+      "total": 9
+    },
+    "medals_by_sport": {
+      "cross-country": {
+        "bronze": "2",
+        "gold": "2",
+        "silver": "5",
+        "total": "9"
+      }
+    },
+    "name": "Sweden",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "CHE",
+    "description": "First appearing in 1924, Switzerland has competed at every edition of the Olympic Winter Games and has hosted the Games twice [1928 and 1948], both in St. Moritz.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ch.png",
+    "id": "switzerland",
+    "medals": {
+      "bronze": 1,
+      "gold": 6,
+      "silver": 3,
+      "total": 10
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "1",
+        "gold": "2",
+        "silver": "0",
+        "total": "3"
+      },
+      "biathlon": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      },
+      "bobsleigh": {
+        "bronze": "0",
+        "gold": "0",
+        "silver": "1",
+        "total": "1"
+      },
+      "cross-country": {
+        "bronze": "0",
+        "gold": "2",
+        "silver": "0",
+        "total": "2"
+      },
+      "snowboard": {
+        "bronze": "0",
+        "gold": "2",
+        "silver": "1",
+        "total": "3"
+      }
+    },
+    "name": "Switzerland",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "TJK",
+    "description": "Alpine skier Andrei Drygin is the only athlete to have represented Tajikistan at the Olympic Winter Games. He made his first appearance in Salt Lake City in 2002, and competed again in 2006 and 2010.",
+    "first_appearance": 2002,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/tj.png",
+    "id": "tajikistan",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Tajikistan",
+    "num_appearances": 4
+  },
+  {
+    "abbr": "THA",
+    "description": "Cross-country skier Prawat Nagvajara became the first Thai athlete to compete at the Olympic Winter Games, in 2002 in Salt Lake City. He competed again four years later in Turin, the most recent appearance by a Thai athlete at the Olympic Winter Games.",
+    "first_appearance": 2002,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/th.png",
+    "id": "thailand",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Thailand",
+    "num_appearances": 3
+  },
+  {
+    "abbr": "MKD",
+    "description": "The NOC representing the former Yugoslav Republic of Macedonia first competed as an independent nation at the Olympic Winter Games in Nagano in 1998.",
+    "first_appearance": 1998,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/mk.png",
+    "id": "the_former_yugoslav_republic_of_macedonia",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Macedonia, the Former Yugoslav Republic of",
+    "num_appearances": 5
+  },
+  {
+    "abbr": "TLS",
+    "description": "Timor-Leste is making its Olympic Winter Games debut in Sochi",
+    "first_appearance": 2014,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/tl.png",
+    "id": "timor-leste",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Timor-leste",
+    "num_appearances": 1
+  },
+  {
+    "abbr": "TGO",
+    "description": "Togo is making its Olympic Winter Games debut in Sochi",
+    "first_appearance": 2014,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/tg.png",
+    "id": "togo",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Togo",
+    "num_appearances": 1
+  },
+  {
+    "abbr": "TON",
+    "description": "Tonga is making its Olympic Winter Games debut in Sochi.",
+    "first_appearance": 2014,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/to.png",
+    "id": "tonga",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Tonga",
+    "num_appearances": 1
+  },
+  {
+    "abbr": "TUR",
+    "description": "Turkey first competed at the Olympic Winter Games in 1936 and has since missed only the Olympic Winter Games of 1952, 1972, and 1980.",
+    "first_appearance": 1936,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/tr.png",
+    "id": "turkey",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Turkey",
+    "num_appearances": 16
+  },
+  {
+    "abbr": "UKR",
+    "description": "Ukraine first competed as an independent nation in Olympic Winter Games competition in 1994. Sixteen-year-old Oksana Bayul claimed gold just ahead of Nancy Kerrigan in a highly publicised women's individual figure skating final.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ua.png",
+    "id": "ukraine",
+    "medals": {
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0,
+      "total": 1
+    },
+    "medals_by_sport": {
+      "biathlon": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      }
+    },
+    "name": "Ukraine",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "USA",
+    "description": "The United States has competed at every edition of the Olympic Winter Games, and has hosted the Games on a record four occasions. The United States collected its greatest gold medal haul at the 2002 Salt Lake City Games, winning 10 gold. Four years ago in Vancouver the US team finished with its biggest overall medal haul in winter Olympic history, with a total of 37 medals, including nine gold.",
+    "first_appearance": 1924,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/us.png",
+    "id": "united_states",
+    "medals": {
+      "bronze": 10,
+      "gold": 6,
+      "silver": 4,
+      "total": 20
+    },
+    "medals_by_sport": {
+      "alpine_skiing": {
+        "bronze": "2",
+        "gold": "1",
+        "silver": "1",
+        "total": "4"
+      },
+      "bobsleigh": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "figure_skating": {
+        "bronze": "1",
+        "gold": "1",
+        "silver": "0",
+        "total": "2"
+      },
+      "freestyle_skiing": {
+        "bronze": "2",
+        "gold": "1",
+        "silver": "2",
+        "total": "5"
+      },
+      "luge": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "0",
+        "total": "1"
+      },
+      "skeleton": {
+        "bronze": "1",
+        "gold": "0",
+        "silver": "1",
+        "total": "2"
+      },
+      "snowboard": {
+        "bronze": "2",
+        "gold": "3",
+        "silver": "0",
+        "total": "5"
+      }
+    },
+    "name": "United States",
+    "num_appearances": 22
+  },
+  {
+    "abbr": "UZB",
+    "description": "Uzbekistan's first ever Olympic medal, winter or summer, came in Lillehammer in 1994 when Lina Cheryazova claimed gold in women's aerials - the first time the event had been held at the Olympic Winter Games.",
+    "first_appearance": 1994,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/uz.png",
+    "id": "uzbekistan",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Uzbekistan",
+    "num_appearances": 6
+  },
+  {
+    "abbr": "VEN",
+    "description": "Venezuela made its Olympic Winter Games debut in Nagano in 1998 when luge athlete Iginia Boccalandro competed in the women's singles event. She competed again four years later in Salt Lake City.",
+    "first_appearance": 1998,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/ve.png",
+    "id": "venezuela",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Venezuela",
+    "num_appearances": 4
+  },
+  {
+    "abbr": "IVB",
+    "description": "British Virgin Islands made its first appearance at the Olympic Winter Games in 1984 in Sarajevo. Speed skater Erroll Fraser competed in the men's 500m and 1000m events.",
+    "first_appearance": 1984,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/vg.png",
+    "id": "virgin_isl_b",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Virgin Islands, British",
+    "num_appearances": 2
+  },
+  {
+    "abbr": "ISV",
+    "description": "Luge competitor Anne Abernathy became the first woman to qualify for six Olympic Winter Games in 2006, but failed to compete in Turin after breaking her wrist during a practice run.",
+    "first_appearance": 1984,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/vi.png",
+    "id": "virgin_isl_us",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Virgin Islands, U.S.",
+    "num_appearances": 8
+  },
+  {
+    "abbr": "ZWE",
+    "description": "Zimbabwe is making its Olympic Winter Games debut in Sochi.",
+    "first_appearance": 2014,
+    "flag": "https://raw.githubusercontent.com/hjnilsson/country-flags/master/png250px/zw.png",
+    "id": "zimbabwe",
+    "medals": {
+      "bronze": 0,
+      "gold": 0,
+      "silver": 0,
+      "total": 0
+    },
+    "name": "Zimbabwe",
+    "num_appearances": 1
+  }
+]
